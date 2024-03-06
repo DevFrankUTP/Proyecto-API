@@ -1,0 +1,10 @@
+
+body{
+    background: #243e4a;
+    color: azure;
+}
+table, th ,td{
+    padding: 10px 50px 10px 50px;
+    border-collapse: collapse;
+}
+
